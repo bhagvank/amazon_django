@@ -1,4 +1,4 @@
-# Heroku Deployment - Django App
+# AWS Deployment - Django App
 
   
   * Django Authentication - with Mysql
