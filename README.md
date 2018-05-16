@@ -11,6 +11,7 @@
   * [Mysql](https://dev.mysql.com/downloads/mysql/)
   
   * [AWS](https://aws.amazon.com)
+  
 1.create account on aws, ec2 node, security groups (http & ssh rules) and get the key -pair
 
 2.Python and Django Setup
